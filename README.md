@@ -15,7 +15,7 @@ _Note: This assignment will have peer review. It is important to be able to look
 ```
   /bsc4452/share/Class_Files/data/CO-OPS__8729108__wl.csv
 ```
-_Note, there are double underscores on either side of the number in the filename. The file is also in the Class_Files git repo hereLinks to an external site._
+_Note, there are double underscores on either side of the number in the filename. The file is also in the Class_Files git repo._
 
 ## Problems 
 
