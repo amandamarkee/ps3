@@ -17,6 +17,19 @@ _Note: This assignment will have peer review. It is important to be able to look
 ```
 _Note, there are double underscores on either side of the number in the filename. The file is also in the Class_Files git repo._
 
+## Metadata (CO-OPS__8729108__wl.csv)
+This file was downloaded from the [NOAA Tides & Currents site](https://tidesandcurrents.noaa.gov/waterlevels.html?id=8729108&units=standard&bdate=20181009&edate=20181012&timezone=GMT&datum=MLLW&interval=6&action=) on 10/11/18.
+
+It is the water level observations (unconfirmed preliminary data) from the Panama City, FL station during Hurricane Michael.
+
+|Column name | Description|
+|------------|------------|
+| Date Time | Date and time of observation
+|Water Level | Observed water level
+|Quality| p=preliminary 
+
+_Note: I've only including necessary metadata for variables used in this problem set: date and water level._
+
 ## Problems 
 
 ### Problem 1 (5 pts):
