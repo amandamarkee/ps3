@@ -26,7 +26,6 @@ It is the water level observations (unconfirmed preliminary data) from the Panam
 |------------|------------|
 | Date Time | Date and time of observation
 |Water Level | Observed water level
-|Quality| p=preliminary 
 
 _Note: I've only including necessary metadata for variables used in this problem set: date and water level._
 
