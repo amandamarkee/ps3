@@ -2,6 +2,12 @@
 
 _Note: This assignment will have peer review. It is important to be able to look at someone else's code and figure out what they are doing. It's also important to write code with the idea that someone else will look at it and needs to understand it. While I will take both the peer reviewer's comments on your code and your comments on the peer reviewed code into account when assigning grades, I will be assigning the grade, not the reviewer._
 
+## Group Members for Problem Set 3
+- Amanda Markee
+- Julia Bruner
+- Kaylin Kleckner
+
+
 ## Problem Set 3 Instructions from Canvas
 - This should be turned in as a public github repository (for this each person will create their own repository rather than using GitHub Classrooms) with your code either in Python scripts or Jupyter Notebooks.
 
